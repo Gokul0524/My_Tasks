@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Home Page </title>
+</head>
+<body>
+
+<a href="./MSD.html">Dhoni</a>
+<a href="./RG.html">Ruturaj</a>
+<a href="./RJ.html">Jadeja</a>
+<a href="./MP.html">Pathirana</a>
+
+
+</body>
+</html>
